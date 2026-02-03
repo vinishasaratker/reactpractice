@@ -3,7 +3,7 @@ import React from 'react'
 const College = (propes) => {
   return (
     <div>
-      <h1>my college name is : {propes.name}</h1>
+      <h1>My College Name is : {propes.name}</h1>
     </div>
   )
 }
