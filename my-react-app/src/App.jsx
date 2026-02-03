@@ -4,22 +4,17 @@ import './App.css'
 // import Footer from './basicreact/Footer'
 // import Data from './basicreact/Data'
 
-import Cybrom from './basicreact/propes/Cybrom'
+import Parentarraypropes from './basicreact/propes/Parentarraypropes'
+
 function App() {
  
 
    return (
-  //   <>
-  //    <Header/> <br/>
-  //     <br/>
-  //     <Data/>
-  //     <br/>
-  //     <Footer/>
-  //   </>
+
+
   <>
   
-<Cybrom/>
-
+<Parentarraypropes/>
 
   </>
   )
